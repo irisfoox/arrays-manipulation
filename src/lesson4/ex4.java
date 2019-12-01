@@ -4,7 +4,6 @@ public class ex4 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//כתוב תכנית מדפיסה משכורת של : בודק תוכנה , מפתח אוטומציה , איש תמיכה תכנית . במידה ומוגדרים בודק תוכנה מודפסת המשכורת שלו , במידה ומגדירים מקצוע אחר יידפס מקצוע לא מוכר.
 	   
 	    printsalary("Qa");
 	}
